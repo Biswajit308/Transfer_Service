@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Constuctor",
+            "request": "launch",
+            "mainClass": "Constuctor",
+            "projectName": "VS CODE_ededb7b8"
+        },
+        {
+            "type": "java",
+            "name": "Excercise",
+            "request": "launch",
+            "mainClass": "com.example.Excercise",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Why_We_Need_Stream_Api",
+            "request": "launch",
+            "mainClass": "com.stream.model.Why_We_Need_Stream_Api",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Dish",
+            "request": "launch",
+            "mainClass": "com.stream.model.Dish",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Why_fp",
+            "request": "launch",
+            "mainClass": "com.example.fp.Why_fp",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Why_FP",
+            "request": "launch",
+            "mainClass": "com.example.fp.Why_FP",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Set_Colln_Demo",
+            "request": "launch",
+            "mainClass": "com.example.colln.Set_Colln_Demo",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ListCollnDemo",
+            "request": "launch",
+            "mainClass": "com.example.colln.ListCollnDemo",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "How_To_Sort_List",
+            "request": "launch",
+            "mainClass": "com.example.colln.How_To_Sort_List",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "How_To_Sort_List",
+            "request": "launch",
+            "mainClass": "com.Colln.How_To_Sort_List",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Error_Example",
+            "request": "launch",
+            "mainClass": "com.Error_Example",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Generics_Example",
+            "request": "launch",
+            "mainClass": "com.example.Generics_Example",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Array_Example",
+            "request": "launch",
+            "mainClass": "com.example.Array_Example",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "com.example.Quiz",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Checked_Exception",
+            "request": "launch",
+            "mainClass": "com.example.Checked_Exception",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Unchecked_Exception_Example",
+            "request": "launch",
+            "mainClass": "com.example.Unchecked_Exception_Example",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample2",
+            "request": "launch",
+            "mainClass": "com.example.InterfaceExample2",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample1",
+            "request": "launch",
+            "mainClass": "com.example.InterfaceExample1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "How_To_Handle_Exception",
+            "request": "launch",
+            "mainClass": "com.example.How_To_Handle_Exception",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Overload_Override_Example",
+            "request": "launch",
+            "mainClass": "com.example.Overload_Override_Example",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Final_Keyword",
+            "request": "launch",
+            "mainClass": "com.example.Final_Keyword",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ExampleApplication",
+            "request": "launch",
+            "mainClass": "com.example.ExampleApplication",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "NpciApplication",
+            "request": "launch",
+            "mainClass": "com.example.NpciApplication",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
             "name": "AccessModifierExample",
             "request": "launch",
             "mainClass": "com.AccessModifierExample",
